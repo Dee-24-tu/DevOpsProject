@@ -74,4 +74,4 @@ zope.event==6.2
 zope.hookable==8.2
 zope.interface==8.4
 zope.lifecycleevent==6.0
-zope.proxy==7ilh 
+zope.proxy==7.2
