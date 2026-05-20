@@ -50,7 +50,6 @@ pydantic_core==2.46.4
 PyJWT==2.12.1
 pynput==1.7.7
 python-dotenv==1.2.2
-pywin32==311
 requests==2.34.2
 requests-oauthlib==2.0.0
 self==2020.12.3
@@ -75,4 +74,4 @@ zope.event==6.2
 zope.hookable==8.2
 zope.interface==8.4
 zope.lifecycleevent==6.0
-zope.proxy==7.2
+zope.proxy==7ilh 
