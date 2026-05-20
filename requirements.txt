@@ -1,5 +1,7 @@
 node==2.0.0
+npm==0.1.1
 odict==2.0.0
+optional-django==0.1.0
 plumber==2.0.0
 zope.component==7.1
 zope.deferredimport==6.1.1
@@ -8,4 +10,4 @@ zope.event==6.2
 zope.hookable==8.2
 zope.interface==8.4
 zope.lifecycleevent==6.0
-zope.proxy==7.2
+zope.proxy==7.2 
